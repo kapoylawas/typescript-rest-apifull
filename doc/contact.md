@@ -144,7 +144,7 @@ Query Paramater :
 
 - name : string, contact first name or contact last name, optional
 - phone : string, contact phone, optional
-- email : string, email phone, optional
+- email : string, contact email, optional
 - page : number, default 1
 - size : number, default 10
 
